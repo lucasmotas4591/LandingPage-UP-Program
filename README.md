@@ -27,7 +27,9 @@ Siga o passo a passo abaixo para testar a aplicação na sua máquina:
    ```bash
    git clone [https://github.com/lucasmotas4591/LandingPage-UP-Program/upload/main]
 2.cd [vs code.py]
+
 3.npm install
+
 4.npm run dev
 
 ## obs
