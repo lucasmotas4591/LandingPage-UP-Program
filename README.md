@@ -16,8 +16,8 @@ A construção da landing page envolveu as seguintes tecnologias e ferramentas:
 - O código foi construído no VS Code
 
 ## 🔗 Links Úteis
-- **Projeto Hospedado:** [Insira o link da página no ar aqui, ex: Vercel, Netlify, GitHub Pages]
-- **Protótipo:** [Insira o link do seu design no Figma aqui]
+- Projeto: gh repo clone lucasmotas4591/LandingPage-UP-Program
+- Protótipo: [(https://www.figma.com/design/VJKA50twH5VohKEC4bobES/Sem-t%C3%ADtulo?node-id=0-1&t=Hbx5GtezyXSkyL2J-1)]
 
 ## 💻 Como rodar o projeto localmente
 
