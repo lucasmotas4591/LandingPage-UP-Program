@@ -16,7 +16,7 @@ A construção da landing page envolveu as seguintes tecnologias e ferramentas:
 - O código foi construído no VS Code
 
 ## 🔗 Links Úteis
-- Projeto: gh repo clone lucasmotas4591/LandingPage-UP-Program
+- Projeto: (https://github.com/lucasmotas4591/LandingPage-UP-Program)
 - Protótipo: [(https://www.figma.com/design/VJKA50twH5VohKEC4bobES/Sem-t%C3%ADtulo?node-id=0-1&t=Hbx5GtezyXSkyL2J-1)]
 
 ## 💻 Como rodar o projeto localmente
